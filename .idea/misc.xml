@@ -3,13 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/drawable/black_to_transparent.xml" value="0.1985" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/drawable/border_selectedstate.xml" value="0.1985" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/drawable/button_female.xml" value="0.124" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/drawable/calendar_bg.xml" value="0.124" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/drawable/gradgray.xml" value="0.1985" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/drawable/ir.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/drawable/rectangle_full_green.xml" value="0.1985" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/drawable/rectangle_gradient.xml" value="0.1985" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/layout/activity_show.xml" value="0.264" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Diapredict/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
       </map>
     </option>
